@@ -1,4 +1,4 @@
-<h1 align="center">Eai, meu querido Dev! Eu sou o Leonardo Vizeu</h1>
+<h1 align="center">Eai, Dev! Firmeza? Eu me chamo Leonardo Vizeu</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leovizeu" alt="Contador do perfil Leo Vizeu" /> </p>
