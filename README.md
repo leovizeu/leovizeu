@@ -28,5 +28,5 @@
 <hr />
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoCorredeira&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leovizeu&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
 </p>
