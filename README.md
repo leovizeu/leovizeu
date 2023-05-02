@@ -28,7 +28,7 @@
 <hr />
 
 <p align="center">
-<a href="[![GitHub Streak](https://streak-stats.demolab.com?user=leovizeu&theme=material-palenight&locale=pt_BR)](https://git.io/streak-stats)">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leovizeu&theme=material-palenight&locale=pt_BR">
 </p>
 <div align="center">
   <a href="[https://github.com/leovizeu](https://github.com/leovizeul)"> 
