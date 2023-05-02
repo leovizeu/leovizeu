@@ -28,7 +28,7 @@
 <hr />
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leovizeu&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
+<a href="[![GitHub Streak](https://streak-stats.demolab.com?user=leovizeu&theme=material-palenight&locale=pt_BR)](https://git.io/streak-stats)"/></a>
 </p>
 <div align="center">
   <a href="[https://github.com/leovizeu](https://github.com/leovizeul)"> 
