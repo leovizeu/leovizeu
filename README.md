@@ -10,6 +10,8 @@
 🕹️ Quando não estou estudando ou trabalhando, estou cuidando da minha filha, e de vez em quando tiro um tempo para alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a align="center" href="https://steamcommunity.com/id/leovizeu/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 </p>
+<div> Este é o Link para todos esses Badges acima </div>
+<a href="https://github.com/DiegoCorredeira/Badges4-README.md-Profile">
 
 <hr />
 <p align="center">Configurações do meu Setup:
