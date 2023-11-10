@@ -1,12 +1,12 @@
-<h1 align="center">Eai, Dev! Firmeza? Eu me chamo Leonardo Vizeu</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
-<h4 align="center">Este é meu Portfólio https://leovizeu.github.io/PortfolioVizeu/</h4>
+<h1 align="center">Hello there! how's it going? I am Leonardo Vizeu</h1>
+<h3 align="center">Studying Software Development</h3>
+<h4 align="center">This is my portfolio (work in progress) https://leovizeu.github.io/PortfolioVizeu/</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leovizeu" alt="Contador do perfil Leo Vizeu" /> </p>
 
-**💼 Atualmente trabalhando como:** Operador de maquinário em <a href="https://acetech.com.br" target="_blank"><b>Acetech Embalagens</b></a>. E buscando emprego na área da Tecnologia.
+**💼 Working at:** Machine Operator at <a href="https://acetech.com.br" target="_blank"><b>Acetech Embalagens</b></a>. And looking forward to start a new carrer!
 
-📝 Estou estudando as seguintes tecnologias: <br>
+📝 I'm studying the following technologies: <br>
 <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,19 +26,16 @@
 <img src= "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <br>
 <br>
-<div> Este é o Link para todos esses Badges acima.
+<div> This is the link to the badged up here.
 https://github.com/DiegoCorredeira/Badges4-README.md-Profile
 </div>
 <br>
 <br>
-🕹️ Quando não estou estudando ou trabalhando, estou cuidando da minha filha, e de vez em quando tiro um tempo para alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a align="center" href="https://steamcommunity.com/id/leovizeu/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-
-</p>
 
 <hr />
-<p align="center">Configurações do meu Setup:
+<p align="center">My Setup:
   <br>
-  - Processador: Intel i3-9350KF
+  - Processor: Intel i3-9350KF
    <br>
   - GPU: GEFORCE 1650 4gb
    <br>
@@ -46,7 +43,7 @@ https://github.com/DiegoCorredeira/Badges4-README.md-Profile
    <br>
   - SSD: 500GB
    <br>
-  - Sistema Operacional: Windows 10
+  - SO: Windows 10
   </p>
 
 <hr />
