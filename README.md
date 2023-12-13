@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! how's it going? I am Leonardo Vizeu</h1>
 <h3 align="center">Studying Software Development</h3>
-<h4 align="center">This is my portfolio (work in progress) https://leovizeu.github.io/PortfolioVizeu/</h4>
+<h4 align="center">This is my portfolio (work in progress) https://leovizeu.github.io/portfolio-2024/</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leovizeu" alt="Contador do perfil Leo Vizeu" /> </p>
 
