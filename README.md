@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leovizeu" alt="Contador do perfil Leo Vizeu" /> </p>
 
-**💼 Working at:** Machine Operator at <a href="https://acetech.com.br" target="_blank"><b>Acetech Embalagens</b></a>. And looking forward to start a new carrer!
+**💼 Not Working at the moment**. And looking forward to start a new carrer!
 
 📝 I'm studying the following technologies: <br>
 <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
