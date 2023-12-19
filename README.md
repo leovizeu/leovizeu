@@ -26,7 +26,7 @@
 <img src= "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <br>
 <br>
-<div> This is the link to the badged up here.
+<div> This is the link to the badges shown up here at my profile.
 https://github.com/DiegoCorredeira/Badges4-README.md-Profile
 </div>
 <br>
