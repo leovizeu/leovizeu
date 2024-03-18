@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack;Software+Developer;"></a>
 </p>
 
-<h3 align="center">This is my portfolio (work in progress) https://leovizeu.github.io/portfolio-2024/</h3>
+<h3 align="center" about: _blank>My portfolio (work in progress) https://portfolio-vizeu.vercel.app</h3>
+<h3 align="center" about: _blank>My personal Blog (work in progress) https://leonardo-personal-blog.vercel.app/</h3>
 
 <h4 align="center">💼 Not Working at the moment. And looking forward to start a new carrer!</h4>
 
